@@ -1,6 +1,6 @@
 # contact
 
-Telegram: t.me/SiB_PL
+Telegram: http://t.me/SiB_PL
 
 WebChat: http://www.tokonda.pl/demo.jsp?exists=NO&login=&locale=en&demo=true&callto=latek18
 
